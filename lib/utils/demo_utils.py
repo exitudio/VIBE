@@ -182,7 +182,7 @@ def trim_videos(filename, start_time, end_time, output_filename):
 
 def video_to_images(vid_file, img_folder=None, return_info=False):
     if img_folder is None:
-        img_folder = osp.join('/tmp', osp.basename(vid_file).replace('.', '_'))
+        img_folder = osp.join('./output/sample_video', osp.basename(vid_file).replace('.', '_'))
 
     os.makedirs(img_folder, exist_ok=True)
 
@@ -282,6 +282,7 @@ def prepare_rendering_results(vibe_results, nframes):
             frame_results[frame_id][person_id] = {
                 'verts': person_data['verts'][idx],
                 'cam': person_data['orig_cam'][idx],
+                'joints3d': person_data['joints3d'][idx],
             }
 
     # naive depth ordering based on the scale of the weak perspective camera
