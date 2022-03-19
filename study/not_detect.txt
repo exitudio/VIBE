@@ -1,0 +1,12 @@
+/home/epinyoan/dataset/casia-b/dataset_b/all/images/109-nm-03-126
+/home/epinyoan/dataset/casia-b/dataset_b/all/images/109-nm-03-144
+/home/epinyoan/dataset/casia-b/dataset_b/all/images/109-nm-04-126
+/home/epinyoan/dataset/casia-b/dataset_b/all/images/109-nm-04-144
+/home/epinyoan/dataset/casia-b/dataset_b/all/images/109-nm-01-180
+/home/epinyoan/dataset/casia-b/dataset_b/all/images/109-nm-01-126
+/home/epinyoan/dataset/casia-b/dataset_b/all/images/109-nm-01-144
+/home/epinyoan/dataset/casia-b/dataset_b/all/images/109-nm-01-162
+/home/epinyoan/dataset/casia-b/dataset_b/all/images/109-nm-02-126
+/home/epinyoan/dataset/casia-b/dataset_b/all/images/109-nm-02-144
+/home/epinyoan/dataset/casia-b/dataset_b/all/images/109-nm-02-162
+/home/epinyoan/dataset/casia-b/dataset_b/all/images/037-bg-02-126
